@@ -11,6 +11,7 @@ Lisa will ask you this question everyday, and track the evolution of your intere
 But more importantly, Lisa will help you guide yourself, by developping a better appreciation of what you find important. 
 
 This takes a few steps :
+
 	- understanding, through dictionaries, wikipedia or specialized websites, what it is exactly that you're talking about. Set boundaries and avoid misconception of a concept.
 
 	ex : You think capitalism is flawed, and find yourself an enthusiasm towards communism. What does this word cover in the 21th century, and what would it mean to be a communist nowadays.
@@ -23,8 +24,8 @@ This takes a few steps :
 	
 	- following the news over your interest
 	Nowadays, Facebook tries to do that by showing you numerous posts that could eventually relate to what you've done earlier. But the fact that Facebook is both the guide and the provider stops you from escaping it website, and really go and explore some meaning. Moreover, Facebook does not asks you : what's important ? It asks you what you'd like to see. The difference is very simple : 
-	- do you like to see cats ?
-	- do you find cats important ? (// without giving in to becoming a full-time cat person //)
+		- do you like to see cats ?
+		- do you find cats important ? (// without giving in to becoming a full-time cat person //)
 	
 	- eventually, if Lisa is able to identify one your interests as sharingly and strong, it will propose you to communicate with another person about that topic, by initiating a discussion over a content that both of you reviewed. This would be entirely private. (// and would require rather a very few passionate users than a tremendous amount of clients //)
 
